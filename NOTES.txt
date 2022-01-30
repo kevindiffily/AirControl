@@ -1,0 +1,5 @@
+Debugging Notes
+
+Currently running on Monterey.
+getting error
+1206:1281: execution error: System Events got an error: Can’t get menu bar item 1 of menu bar 1 of process "SystemUIServer" whose description contains "Displays". Invalid index. (-1719)
